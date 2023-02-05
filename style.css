@@ -1,0 +1,23 @@
+body {
+	background-color: #000000;
+	display: flex;
+	overflow: hidden;
+}
+
+#Page {
+	position: relative;
+	right: -36%;
+	width: 30%;
+}
+#NextPage {
+	position: absolute;
+	right: 44.5%;
+	bottom: 40%;
+	height: 3%;
+}
+#PrevPage {
+	position: absolute;
+	right: 49.5%;
+	bottom: 40%;
+	height: 3%;
+}
